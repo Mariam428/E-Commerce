@@ -1,0 +1,16 @@
+
+.shop-item {
+    background-color: hsl(228.92deg 68.42% 62.75%);
+    border-radius: 25px;
+   
+}
+
+.shop-item img{
+    width: 100%;
+    padding: 0;
+}
+
+.shop-item button{
+    margin: 5px;
+}
+
